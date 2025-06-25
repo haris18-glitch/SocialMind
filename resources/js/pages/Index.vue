@@ -22,7 +22,7 @@
 
                   </span>
                   <div 
-                    onclick="copyToClipboard('CA :')" 
+                    onclick="copyToClipboard('CA :0x1234567890123456789012345678901234567890')" 
                     style="
                       background: rgba(255, 255, 255, 0.1);
                       border: 1px solid rgba(255, 255, 255, 0.2);
