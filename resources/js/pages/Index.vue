@@ -52,11 +52,9 @@
           </div>
         </div>
       </div>
-      
+
 
       <div class="hero-4__content bg-black rounded-top-5 section-space-top">
-
-        
         <div class="section-space-top section-space-sm-bottom">
           <div class="section-space-sm-bottom">
 
