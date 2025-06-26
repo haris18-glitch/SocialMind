@@ -44,7 +44,7 @@
                     onmouseout="this.style.background='rgba(255, 255, 255, 0.1)'"
                     title="Click to copy address"
                     id="addressDiv">
-                    CA: 0x1a5f5c797babcbf4ec9ed36e8648b846cfdf1e23
+                    CA:  0x1a5f5c797babcbf4ec9ed36e8648b846cfdf1e23
                   </div>
                 </div>
               </div>
