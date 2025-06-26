@@ -22,7 +22,7 @@
 
                   </span>
                   <div 
-                    onclick="copyToClipboard('CA :0x1234567890123456789012345678901234567890')" 
+                    onclick="copyToClipboard('0x1a5f5c797babcbf4ec9ed36e8648b846cfdf1e23')" 
                     style="
                       background: rgba(255, 255, 255, 0.1);
                       border: 1px solid rgba(255, 255, 255, 0.2);
@@ -44,7 +44,7 @@
                     onmouseout="this.style.background='rgba(255, 255, 255, 0.1)'"
                     title="Click to copy address"
                     id="addressDiv">
-                    CA: 0x1234567890123456789012345678901234567890
+                    CA: 0x1a5f5c797babcbf4ec9ed36e8648b846cfdf1e23
                   </div>
                 </div>
               </div>
